@@ -1,0 +1,55 @@
+MetaVersion: 1
+MarketplaceDetails {
+  Id: "e8f39420ce10459c9435bc52a35d869d"
+  OwnerAccountId: "dd9c125567704261953ffd885e60a898"
+  OwnerName: "Hani"
+  Version: "1.3.0"
+}
+AssetIdsOriginalToNew {
+  key: 157077703428238351
+  value: 3461225410503201409
+}
+AssetIdsOriginalToNew {
+  key: 202812747301334622
+  value: 12738097817782354977
+}
+AssetIdsOriginalToNew {
+  key: 422126413374678882
+  value: 11047848880940969134
+}
+AssetIdsOriginalToNew {
+  key: 726342336512796968
+  value: 4035081811683436089
+}
+AssetIdsOriginalToNew {
+  key: 1960298238579623323
+  value: 9110841997805377158
+}
+AssetIdsOriginalToNew {
+  key: 5584882102336224056
+  value: 2272983701495009309
+}
+AssetIdsOriginalToNew {
+  key: 5702907119253073669
+  value: 2716548296201136759
+}
+AssetIdsOriginalToNew {
+  key: 7145630049984329875
+  value: 5482913091133889594
+}
+AssetIdsOriginalToNew {
+  key: 12707032343113048194
+  value: 1472388053226960355
+}
+AssetIdsOriginalToNew {
+  key: 14633632985083390763
+  value: 14884676251199175203
+}
+AssetIdsOriginalToNew {
+  key: 16947917531742830265
+  value: 5624176855262804048
+}
+AssetIdsOriginalToNew {
+  key: 17252272926421216446
+  value: 13627571937781855812
+}
